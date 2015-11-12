@@ -1,0 +1,38 @@
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix schema: <http://schema.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://www.oeg-upm.net/#this> a schema:Organization,
+        foaf:Group;
+    schema:member <http://delicias.dia.fi.upm.es/members/DGarijo/#me>;
+    foaf:homePage <http://www.oeg-upm.net/>;
+    foaf:member <http://delicias.dia.fi.upm.es/members/DGarijo/#me>;
+    foaf:title "Ontology Engineering Group" .
+
+<http://delicias.dia.fi.upm.es/members/DGarijo/#me> a dc:Agent,
+        schema:Person,
+        prov:Person,
+        foaf:Person;
+	owl:sameAs <http://purl.org/net/dgarijo#me>, <http://w3id.org/people/dgarijo#me>;
+    schema:alumniOf <http://dbpedia.org/resource/Technical_University_of_Madrid>,
+        <http://semanticweb.org/wiki/Universidad_Complutense_de_Madrid>;
+    schema:image <http://delicias.dia.fi.upm.es/members/DGarijo/images/daniPic.jpg>;
+    schema:mail <mailto:dgarijo@fi.upm.es>;
+    schema:memberOf <http://www.oeg-upm.net/#this>;
+    schema:name "Daniel Garijo";
+    schema:telephone "+34913363670";
+    schema:worksFor <http://dbpedia.org/resource/Technical_University_of_Madrid>;
+    foaf:img <http://delicias.dia.fi.upm.es/members/DGarijo/images/daniPic.jpg>;
+    foaf:mbox <mailto:dgarijo@fi.upm.es>;
+    foaf:name "Daniel Garijo";
+    foaf:pastProject <http://mayor2.dia.fi.upm.es/oeg-upm/index.php/en/completedprojects/65-webenemasuno#this>;
+	foaf:pastProject <http://mayor2.dia.fi.upm.es/oeg-upm/index.php/en/activeprojects/136-wf4ever#this>;
+    foaf:phone "+34913363670";
+    foaf:publications <http://scholar.google.es/citations?user=meb5L6oAAAAJ>;
+    foaf:topic_interest <http://dbpedia.org/resource/E-Science>,
+        <http://en.wikipedia.org/wiki/Scientific_workflow_system>,
+        <http://semanticweb.org/wiki/Category:Topic_Semantic_Web>,
+        <http://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance>,
+        <http://www.w3.org/DesignIssues/LinkedData.html> .

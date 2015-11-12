@@ -1,0 +1,6 @@
+/* this css file should only be loaded if the user doesn't indicate
+that they provide their own css file */
+
+span.bibbase_icon_text {
+    display: none;
+}
