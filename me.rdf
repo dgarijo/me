@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:prov="http://www.w3.org/ns/prov#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:schema="http://schema.org/"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+>
+  <rdf:Description rdf:about="http://delicias.dia.fi.upm.es/members/dgarijo/">
+    <prov:wasDerivedFrom>http://www.styleshout.com/templates/preview/PixelGreen13/index.html</prov:wasDerivedFrom>
+    <foaf:primaryTopic>http://delicias.dia.fi.upm.es/members/DGarijo/#me</foaf:primaryTopic>
+    <dc:title>Daniel Garijo</dc:title>
+    <dc:creator>http://delicias.dia.fi.upm.es/members/DGarijo/#me</dc:creator>
+    <schema:creator>http://delicias.dia.fi.upm.es/members/DGarijo/#me</schema:creator>
+    <prov:wasAttributedTo>http://delicias.dia.fi.upm.es/members/DGarijo/#me</prov:wasAttributedTo>
+  </rdf:Description>
+  <foaf:Group rdf:about="http://www.oeg-upm.net/#this">
+    <foaf:member>
+      <foaf:Person rdf:about="http://delicias.dia.fi.upm.es/members/DGarijo/#me">
+        <schema:worksFor rdf:resource="http://dbpedia.org/resource/Technical_University_of_Madrid"/>
+        <foaf:currentProject rdf:resource="http://mayor2.dia.fi.upm.es/oeg-upm/index.php/en/activeprojects/136-wf4ever#this"/>
+        <foaf:phone>+34913363670</foaf:phone>
+        <schema:image rdf:resource="http://delicias.dia.fi.upm.es/members/DGarijo/images/daniPic.jpg"/>
+		<owl:sameAs rdf:resource ="http://purl.org/net/dgarijo#me"/>
+		<owl:sameAs rdf:resource ="http://w3id.org/people/dgarijo#me"/>
+        <schema:alumniOf rdf:resource="http://semanticweb.org/wiki/Universidad_Complutense_de_Madrid"/>
+        <schema:alumniOf rdf:resource="http://dbpedia.org/resource/Technical_University_of_Madrid"/>
+        <foaf:pastProject rdf:resource="http://mayor2.dia.fi.upm.es/oeg-upm/index.php/en/completedprojects/65-webenemasuno#this"/>
+        <rdf:type rdf:resource="http://schema.org/Person"/>
+        <rdf:type rdf:resource="http://purl.org/dc/terms/Agent"/>
+        <rdf:type rdf:resource="http://www.w3.org/ns/prov#Person"/>
+        <foaf:img rdf:resource="http://delicias.dia.fi.upm.es/members/DGarijo/images/daniPic.jpg"/>
+        <foaf:topic_interest rdf:resource="http://semanticweb.org/wiki/Category:Topic_Semantic_Web"/>
+        <foaf:topic_interest rdf:resource="http://dbpedia.org/resource/E-Science"/>
+        <foaf:topic_interest rdf:resource="http://www.w3.org/DesignIssues/LinkedData.html"/>
+        <foaf:topic_interest rdf:resource="http://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance"/>
+        <foaf:topic_interest rdf:resource="http://en.wikipedia.org/wiki/Scientific_workflow_system"/>
+        <schema:mail rdf:resource="mailto:dgarijo@fi.upm.es"/>
+        <schema:memberOf rdf:resource="http://www.oeg-upm.net/#this"/>
+        <foaf:name>Daniel Garijo</foaf:name>
+        <schema:name>Daniel Garijo</schema:name>
+        <foaf:publications rdf:resource="http://scholar.google.es/citations?user=meb5L6oAAAAJ"/>
+        <schema:telephone>+34913363670</schema:telephone>
+        <foaf:mbox rdf:resource="mailto:dgarijo@fi.upm.es"/>
+      </foaf:Person>
+    </foaf:member>
+    <schema:member rdf:resource="http://delicias.dia.fi.upm.es/members/DGarijo/#me"/>
+    <foaf:homePage rdf:resource="http://www.oeg-upm.net/"/>
+    <rdf:type rdf:resource="http://schema.org/Organization"/>
+    <foaf:title>Ontology Engineering Group</foaf:title>
+  </foaf:Group>
+</rdf:RDF>
+
