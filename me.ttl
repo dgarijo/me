@@ -11,25 +11,22 @@
     foaf:member <http://delicias.dia.fi.upm.es/members/DGarijo/#me>;
     foaf:title "Ontology Engineering Group" .
 
-<http://delicias.dia.fi.upm.es/members/DGarijo/#me> a dc:Agent,
+<https://w3id.org/people/dgarijo#me> a dc:Agent,
         schema:Person,
         prov:Person,
         foaf:Person;
-	owl:sameAs <http://purl.org/net/dgarijo#me>, <http://w3id.org/people/dgarijo#me>;
+	owl:sameAs <http://purl.org/net/dgarijo#me>;
     schema:alumniOf <http://dbpedia.org/resource/Technical_University_of_Madrid>,
         <http://semanticweb.org/wiki/Universidad_Complutense_de_Madrid>;
-    schema:image <http://delicias.dia.fi.upm.es/members/DGarijo/images/daniPic.jpg>;
-    schema:mail <mailto:dgarijo@fi.upm.es>;
-    schema:memberOf <http://www.oeg-upm.net/#this>;
+    schema:image <http://dgarijo.github.io/me/images/danipic.jpg>;
+    schema:mail <mailto:dgarijo@isi.edu>;
     schema:name "Daniel Garijo";
-    schema:telephone "+34913363670";
-    schema:worksFor <http://dbpedia.org/resource/Technical_University_of_Madrid>;
-    foaf:img <http://delicias.dia.fi.upm.es/members/DGarijo/images/daniPic.jpg>;
-    foaf:mbox <mailto:dgarijo@fi.upm.es>;
+    schema:worksFor <www.isi.edu/#this>;
+    foaf:img <http://dgarijo.github.io/me/images/danipic.jpg>;
+    foaf:mbox <mailto:dgarijo@isi.edu>;
     foaf:name "Daniel Garijo";
     foaf:pastProject <http://mayor2.dia.fi.upm.es/oeg-upm/index.php/en/completedprojects/65-webenemasuno#this>;
 	foaf:pastProject <http://mayor2.dia.fi.upm.es/oeg-upm/index.php/en/activeprojects/136-wf4ever#this>;
-    foaf:phone "+34913363670";
     foaf:publications <http://scholar.google.es/citations?user=meb5L6oAAAAJ>;
     foaf:topic_interest <http://dbpedia.org/resource/E-Science>,
         <http://en.wikipedia.org/wiki/Scientific_workflow_system>,
