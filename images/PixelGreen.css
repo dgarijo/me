@@ -30,7 +30,7 @@ a:hover { background: inherit; color: #006699; text-decoration: underline; }
 
 /* headers */
 h1, h2, h3 { font: bold 1em 'Trebuchet MS', Tahoma, Sans-serif; }
-h1 { font-size: 1.4em; color: #65944A; }
+h1 { font-size: 1.4em; /*color: #65944A;*/ }
 h2 { font-size: 1.2em; text-transform: uppercase; }
 h3 { font-size: 1.2em; }
 
@@ -206,7 +206,7 @@ input.button {
 	margin: 0; padding: 0;		
 	
 	/* change the values of left and top to adjust the position of the logo */
-	top: 0; left: 0px;
+	top: 15px; left: 0px;
 }
 #header-content h1#logo a {
 	text-decoration: none;
@@ -226,7 +226,7 @@ input.button {
 /* header menu */
 #header-content ul {
 	position: absolute;
-	right: -5px; top: 15px;
+	right: -5px; top: 34px;
 	font: bolder 1.3em 'Trebuchet MS', sans-serif;
 	color: #FFF;
 	list-style: none;
