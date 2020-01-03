@@ -21,8 +21,8 @@
     schema:image <http://dgarijo.github.io/me/images/danipic.jpg>;
     schema:mail <mailto:dgarijo@isi.edu>;
     schema:name "Daniel Garijo";
-    schema:worksFor <www.isi.edu/#this>;
-    foaf:img <http://dgarijo.github.io/me/images/danipic.jpg>;
+    schema:worksFor <http://www.isi.edu/#this>;
+    foaf:img "http://dgarijo.github.io/me/images/danipic.jpg";
     foaf:mbox <mailto:dgarijo@isi.edu>;
     foaf:name "Daniel Garijo";
     foaf:pastProject <http://mayor2.dia.fi.upm.es/oeg-upm/index.php/en/completedprojects/65-webenemasuno#this>;
