@@ -21,12 +21,10 @@
     schema:image <http://dgarijo.github.io/me/images/danipic.jpg>;
     schema:mail <mailto:dgarijo@isi.edu>;
     schema:name "Daniel Garijo";
-    schema:worksFor <http://www.isi.edu/#this>;
+    schema:worksFor <http://www.oeg-upm.net/#this>;
     foaf:img "http://dgarijo.github.io/me/images/danipic.jpg";
     foaf:mbox <mailto:dgarijo@isi.edu>;
     foaf:name "Daniel Garijo";
-    foaf:pastProject <http://mayor2.dia.fi.upm.es/oeg-upm/index.php/en/completedprojects/65-webenemasuno#this>;
-	foaf:pastProject <http://mayor2.dia.fi.upm.es/oeg-upm/index.php/en/activeprojects/136-wf4ever#this>;
     foaf:publications <http://scholar.google.es/citations?user=meb5L6oAAAAJ>;
     foaf:topic_interest <http://dbpedia.org/resource/E-Science>,
         <http://en.wikipedia.org/wiki/Scientific_workflow_system>,
