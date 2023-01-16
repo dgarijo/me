@@ -3,6 +3,7 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix schema: <http://schema.org/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>. 
 
 <http://www.oeg-upm.net/#this> a schema:Organization,
         foaf:Group;
@@ -15,6 +16,7 @@
         schema:Person,
         prov:Person,
         foaf:Person;
+  rdfs:label "Daniel Garijo";
 	owl:sameAs <http://purl.org/net/dgarijo#me>;
     schema:alumniOf <http://dbpedia.org/resource/Technical_University_of_Madrid>,
         <http://semanticweb.org/wiki/Universidad_Complutense_de_Madrid>;
