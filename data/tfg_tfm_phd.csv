@@ -1,7 +1,8 @@
 name,type,date_defense,student_full_name,grade,url
-Creación de una interfaz para extraer conocimiento de artículos científicos sobre química solar,tfg,29/01/25,Ioana Alexandra Faje,,
-Creación de una base de conocimiento para el cálculo transparente de emisiones de carbono,tfg,29/01/25,Adrian Ramos Olive,,
-Creación y mejora de una página Web para analizar ontologías de acuerdo con los principios FAIR,tfg,31/01/25,Carlos Gaspar,,
+Sistema de monitorización de servidores y servicios en infraestructuras de investigación,tfg,15/01/25,Luis Capilla Garcia,sobresaliente,https://oa.upm.es/87831/
+Creación de una interfaz para extraer conocimiento de artículos científicos sobre química solar,tfg,29/01/25,Ioana Alexandra Faje,sobresaliente,
+Creación de una base de conocimiento para el cálculo transparente de emisiones de carbono,tfg,29/01/25,Adrian Ramos Olive,sobresaliente,https://oa.upm.es/87804/
+Creación y mejora de una página Web para analizar ontologías de acuerdo con los principios FAIR,tfg,31/01/25,Carlos Gaspar Santiago,notable,https://oa.upm.es/87804/
 Creación de una metodología y un gold standard para desambiguar software científico,tfm,,Jelena Duric,,
 RepoFromPaper: An Approach to Extract Software Code Implementations from Scientific Publications,tfm,22/07/2024,Aleksandar Stankovski,matricula,https://oa.upm.es/82930/
 SALTBot: linking software and articles in Wikidata,tfm,22/07/2024,Jorge Bolinches Segovia,sobresaliente,https://oa.upm.es/82934
@@ -21,3 +22,4 @@ Extracción de Entidades Nombradas a Partir de la Documentación del Software,rf
 SALTbot: Creación de un Bot para Enlazar Artículos y Software en WikiData,tfg,20/05/2022,Jorge Bolinches Segovia,sobresaliente,https://oa.upm.es/71007/
 Creación de un Sistema para Autocompletar Archivos README,tfg,30/01/2022,Javier de Toro Carrilero,sobresaliente,https://oa.upm.es/69853/
 Creación de un Servicio Web para Extracción de Metadatos de Software,tfg,20/12/2021,Victor Fernandez-Lancha,sobresaliente,https://oa.upm.es/69859/
+Creación de una Web demostradora sobre construcción de APIs REST a partir de ontologías y grafos de conocimientos,tfg,20/12/2021,David Menéndez-Morán Fuentes,sobresaliente,https://oa.upm.es/68539/
