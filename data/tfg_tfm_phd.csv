@@ -1,5 +1,9 @@
 name,type,date_defense,student_full_name,grade,url
-Estudio de Herramientas para Convertir Artículos en HTML Enlazado,tfg,18/07/25,Raquel Falero,sobresaliente,not available yet?
+Improving OOPS! with LLMs,tfm,n/a,Carlos Gaspar Santiago,n/a,not available yet
+EmRAGE: Desarrollo de un sistema de búsqueda para correo electrónico basado en LLMs,tfg,29/01/26,Francisco Chicote,sobresaliente,not available yet
+Creación de grafos de conocimiento a partir de contenedores para facilitar su monitorización,tfg,29/01/26,Andei Iulian,sobresaliente,not available yet
+FAIRbyDesign,tfg,29/01/26,Izan Navarro,sobresaliente,not available yet
+Estudio de Herramientas para Convertir Artículos en HTML Enlazado,tfg,18/07/25,Raquel Falero,sobresaliente,https://oa.upm.es/91175/
 Sistema de monitorización de servidores y servicios en infraestructuras de investigación,tfg,15/01/25,Luis Capilla Garcia,sobresaliente,https://oa.upm.es/87831/
 Creación de una interfaz para extraer conocimiento de artículos científicos sobre química solar,tfg,29/01/25,Ioana Alexandra Faje,sobresaliente,https://oa.upm.es/87825/
 Creación de una base de conocimiento para el cálculo transparente de emisiones de carbono,tfg,29/01/25,Adrian Ramos Olive,sobresaliente,https://oa.upm.es/87804/
@@ -19,7 +23,7 @@ A methodology for research software classification,tfg,20/06/2022,Jenifer Tabita
 Topic modeling for research software,tfm,20/06/2022,María Ayuso Luengo,sobresaliente,https://oa.upm.es/71379/
 Creación de un Grafo de Conocimiento Usando Extracción de Relaciones a partir de Entidades Nombradas Extraídos de Archivos Readme,tfg,02/06/2022,Andrés Cardozo Blanco,sobresaliente,https://oa.upm.es/71156/
 Creación de una Aplicación para la Generación de Objetos de Investigación a partir de Metadatos Mínimos,tfg,02/06/2022,Floriana Antonia Pavel,sobresaliente,https://oa.upm.es/71160/
-Extracción de Entidades Nombradas a Partir de la Documentación del Software,rfg,20/05/2022,Marco Antonio da Silva Santucci,sobresaliente,https://oa.upm.es/70988/
+Extracción de Entidades Nombradas a Partir de la Documentación del Software,tfg,20/05/2022,Marco Antonio da Silva Santucci,sobresaliente,https://oa.upm.es/70988/
 SALTbot: Creación de un Bot para Enlazar Artículos y Software en WikiData,tfg,20/05/2022,Jorge Bolinches Segovia,sobresaliente,https://oa.upm.es/71007/
 Creación de un Sistema para Autocompletar Archivos README,tfg,30/01/2022,Javier de Toro Carrilero,sobresaliente,https://oa.upm.es/69853/
 Creación de un Servicio Web para Extracción de Metadatos de Software,tfg,20/12/2021,Victor Fernandez-Lancha,sobresaliente,https://oa.upm.es/69859/
